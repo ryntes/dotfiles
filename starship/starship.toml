@@ -5,7 +5,7 @@ $git_branch\
 $git_status\
 $cmd_duration\
 $fill\
-$golang$java$lua$nodejs$python$ruby\
+$lua$nodejs$python$ruby\
 $line_break\
 $character
 """
@@ -53,18 +53,6 @@ style = 'bold yellow'
 [fill]
 disabled = false
 symbol = ' '
-
-[golang]
-disabled = false
-format = '[$symbol $version ]($style)'
-style = 'bold #5dc9e2'
-symbol = 'go'
-
-[java]
-disabled = false
-format = '[$symbol $version ]($style)'
-style = 'bold #f8981d'
-symbol = 'java'
 
 [lua]
 disabled = false
