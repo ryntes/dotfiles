@@ -28,7 +28,7 @@ if command -v rbenv > /dev/null; then
 fi
 
 # Install languages
-brew install go lua node
+brew install lua node
 
 # Install plugin managers
 brew install antidote
