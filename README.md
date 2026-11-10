@@ -20,7 +20,7 @@ brew install git
 ```
 Clone repo and navigate to it.
 ```bash
-git clone git@github.com:RyanEweSeng/dotfiles.git
+git clone git@github.com:ryntes/dotfiles.git
 cd dotfiles
 ```
 Install the apps/packages.
